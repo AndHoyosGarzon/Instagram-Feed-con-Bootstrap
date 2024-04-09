@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.btnEdit{
+    border: none;
+}
+
+.btnEdit:hover{
+    color: blue; 
+}
+
+.imgs{
+    width: 600px;
+    height: 580px;
+    object-fit: cover; 
+}
+
+.imgs:hover{
+    width: 602px;
+    height: 583px;
+    cursor: pointer;
+}
+
+.imgs2{
+    width: 590px;
+    height: 503px;
+    object-fit: cover; 
+}
+
+.imgs2:hover{
+    cursor: pointer;
+}
